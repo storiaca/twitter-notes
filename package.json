@@ -9,6 +9,8 @@
   "author": "Aleksandar Ristic",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "oauth": "^0.9.15"
   }
 }
